@@ -6,6 +6,6 @@ public class TestMain {
     @Test
     public void testPowerOf(){
         Main main = new Main();
-        assertEquals(3 ,main.powerOf2(2));
+        assertEquals(2 ,main.powerOf2(2));
     }
 }
